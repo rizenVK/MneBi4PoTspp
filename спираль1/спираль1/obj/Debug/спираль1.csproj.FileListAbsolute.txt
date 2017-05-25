@@ -1,0 +1,36 @@
+C:\Users\Lindemann\Desktop\спираль1\спираль1\спираль1\bin\Debug\спираль1.exe.config
+C:\Users\Lindemann\Desktop\спираль1\спираль1\спираль1\bin\Debug\спираль1.exe
+C:\Users\Lindemann\Desktop\спираль1\спираль1\спираль1\bin\Debug\спираль1.pdb
+C:\Users\Lindemann\Desktop\спираль1\спираль1\спираль1\obj\Debug\спираль1.csprojResolveAssemblyReference.cache
+C:\Users\Lindemann\Desktop\спираль1\спираль1\спираль1\obj\Debug\спираль1.Form1.resources
+C:\Users\Lindemann\Desktop\спираль1\спираль1\спираль1\obj\Debug\спираль1.Properties.Resources.resources
+C:\Users\Lindemann\Desktop\спираль1\спираль1\спираль1\obj\Debug\спираль1.csproj.GenerateResource.Cache
+C:\Users\Lindemann\Desktop\спираль1\спираль1\спираль1\obj\Debug\спираль1.exe
+C:\Users\Lindemann\Desktop\спираль1\спираль1\спираль1\obj\Debug\спираль1.pdb
+E:\учеба\2 курс\2семестр\спираль1\спираль1\спираль1\bin\Debug\спираль1.exe.config
+E:\учеба\2 курс\2семестр\спираль1\спираль1\спираль1\obj\Debug\спираль1.exe
+E:\учеба\2 курс\2семестр\спираль1\спираль1\спираль1\obj\Debug\спираль1.pdb
+E:\учеба\2 курс\2семестр\спираль1\спираль1\спираль1\bin\Debug\спираль1.exe
+E:\учеба\2 курс\2семестр\спираль1\спираль1\спираль1\bin\Debug\спираль1.pdb
+E:\учеба\2 курс\2семестр\спираль1\спираль1\спираль1\obj\Debug\спираль1.csprojResolveAssemblyReference.cache
+E:\учеба\2 курс\2семестр\спираль1\спираль1\спираль1\obj\Debug\спираль1.Form1.resources
+E:\учеба\2 курс\2семестр\спираль1\спираль1\спираль1\obj\Debug\спираль1.Properties.Resources.resources
+E:\учеба\2 курс\2семестр\спираль1\спираль1\спираль1\obj\Debug\спираль1.csproj.GenerateResource.Cache
+C:\Users\Виталий\Downloads\лаба2Лавренюк\спираль1\спираль1\спираль1\obj\Debug\спираль1.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Downloads\лаба2Лавренюк\спираль1\спираль1\спираль1\obj\Debug\спираль1.Form1.resources
+C:\Users\Виталий\Downloads\лаба2Лавренюк\спираль1\спираль1\спираль1\obj\Debug\спираль1.Properties.Resources.resources
+C:\Users\Виталий\Downloads\лаба2Лавренюк\спираль1\спираль1\спираль1\obj\Debug\спираль1.csproj.GenerateResource.Cache
+C:\Users\Виталий\Downloads\лаба2Лавренюк\спираль1\спираль1\спираль1\obj\Debug\спираль1.exe
+C:\Users\Виталий\Downloads\лаба2Лавренюк\спираль1\спираль1\спираль1\obj\Debug\спираль1.pdb
+C:\Users\Виталий\Downloads\лаба2Лавренюк\спираль1\спираль1\спираль1\bin\Debug\спираль1.exe.config
+C:\Users\Виталий\Downloads\лаба2Лавренюк\спираль1\спираль1\спираль1\bin\Debug\спираль1.exe
+C:\Users\Виталий\Downloads\лаба2Лавренюк\спираль1\спираль1\спираль1\bin\Debug\спираль1.pdb
+X:\Печать\лаба2Лавренюк\спираль1\спираль1\спираль1\bin\Debug\спираль1.exe.config
+X:\Печать\лаба2Лавренюк\спираль1\спираль1\спираль1\obj\Debug\спираль1.exe
+X:\Печать\лаба2Лавренюк\спираль1\спираль1\спираль1\obj\Debug\спираль1.pdb
+X:\Печать\лаба2Лавренюк\спираль1\спираль1\спираль1\bin\Debug\спираль1.exe
+X:\Печать\лаба2Лавренюк\спираль1\спираль1\спираль1\bin\Debug\спираль1.pdb
+X:\Печать\лаба2Лавренюк\спираль1\спираль1\спираль1\obj\Debug\спираль1.csprojResolveAssemblyReference.cache
+X:\Печать\лаба2Лавренюк\спираль1\спираль1\спираль1\obj\Debug\спираль1.Form1.resources
+X:\Печать\лаба2Лавренюк\спираль1\спираль1\спираль1\obj\Debug\спираль1.Properties.Resources.resources
+X:\Печать\лаба2Лавренюк\спираль1\спираль1\спираль1\obj\Debug\спираль1.csproj.GenerateResource.Cache
